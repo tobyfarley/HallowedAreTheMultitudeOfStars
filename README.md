@@ -1,4 +1,4 @@
-# HallowedAreTheMultitudeOfStars
+# Hallowed are the Multitude of Stars
 Game Setting Compatible with the Cypher System
 
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at http://csol.montecookgames.com.
