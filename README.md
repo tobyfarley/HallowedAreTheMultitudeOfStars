@@ -5,4 +5,4 @@ This product is an independent production and is not affiliated with Monte Cook 
 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC. 
 
-![Compatible with the Cypher System](https://github.com/tobyfarley/HallowedAreTheMultitudeOfStars/blob/main/CSOL%20Logo-Cypher%20System%20Compatible-Color-Small-RGB.png)
+![Compatible with the Cypher System](https://github.com/tobyfarley/HallowedAreTheMultitudeOfStars/blob/main/Compatible%20with%20the%20Cypher%20System%20Logo%20color%20small.png)
