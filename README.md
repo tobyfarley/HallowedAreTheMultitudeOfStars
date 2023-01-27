@@ -7,4 +7,4 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 
 ![Compatible with the Cypher System](./Compatible%20with%20the%20Cypher%20System%20Logo%20color%20small.png)
 
-This game setting uses the [Cypher System Reference Document](https://csol.montecookgames.com/license/) but the [Cyber System Rule Book](https://www.montecookgames.com/store/product/cypher-system-rulebook-2/) is fantastic. 
+This game setting uses the [Cypher System Reference Document](https://csol.montecookgames.com/license/) but the [Cyber System Rule Book](https://www.montecookgames.com/store/product/cypher-system-rulebook-2/) is fantastic. I also recommend [Your Best Game Ever](https://www.montecookgames.com/store/product/your-best-game-ever/).
